@@ -1,0 +1,21 @@
+# Node modules - never commit these
+node_modules/
+
+# Environment variables - keep secrets safe
+.env
+
+# Uploaded images - too large for git
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# React build output
+frontend/build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+*.log
+npm-debug.log*
