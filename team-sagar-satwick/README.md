@@ -12,6 +12,11 @@
 
 A full-stack web application to manage student team members. Users can add members with profile photos, view all members, and see detailed information for each member. Built with React.js on the frontend and Node.js + Express + MongoDB on the backend.
 
+<img width="1907" height="747" alt="image" src="https://github.com/user-attachments/assets/f87d3e11-77fa-49d1-8740-af37e149ad5c" />
+<img width="1910" height="588" alt="image" src="https://github.com/user-attachments/assets/d7abe0f4-004f-4f06-81d3-cf57dd27226e" />
+<img width="1906" height="647" alt="image" src="https://github.com/user-attachments/assets/7246f162-5608-4169-b0b1-65627df71915" />
+
+
 ---
 
 ## Tech Stack
